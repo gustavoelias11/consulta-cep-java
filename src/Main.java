@@ -18,7 +18,6 @@ public class Main {
         try {
             Endereco novoEndereco = consultaCep.buscaEndereco(cep);
 
-            System.out.println("Resultado do JSON que vem da API");
             System.out.println(novoEndereco);
 
             GeradorDeArquivo geradorDeArquivo = new GeradorDeArquivo();
