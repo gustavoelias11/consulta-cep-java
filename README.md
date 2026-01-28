@@ -19,7 +19,7 @@ Projeto desenvolvido para fixar os conhecimentos em Java, consumo de APIs e mani
 
 1. **Clone o repositório**:
    ```bash
-   git clone [https://github.com/gustavoelias11/estudos-alura-java.git](https://github.com/gustavoelias11/estudos-alura-java.git)
+   git clone [git clone https://github.com/gustavoelias11/estudos-alura-java.git]
 
 2. **Configuração**:
     - Abra o projeto no IntelliJ.
